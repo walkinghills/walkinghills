@@ -12,9 +12,9 @@ I build practical AI tools for professional services businesses: document intell
 
 ### NZ Tax RAG
 
-Retrieval-augmented generation over NZ tax legislation, IRD guidance, and case law.
+Early proof-of-ability RAG prototype over NZ tax legislation, IRD guidance, and case law.
 
-Commercial angle: helps professional-services teams ask cited questions over complex tax material while separating retrieval quality, grounding quality, and final answer quality.
+Commercial angle: demonstrates practical RAG pipeline skill: source collection, section-aware chunking, hybrid retrieval, citation display, and evaluation. It is not presented as a production tax-advice product.
 
 Highlights:
 
@@ -28,7 +28,7 @@ Highlights:
 
 Discord automation and desktop dashboard for coordinating world-boss scouting.
 
-Commercial angle: turns a chat-heavy coordination process into a tracked operational workflow with self-service commands, state, scheduler logic, and an operator dashboard. It is no longer deployed, but remains useful as an internal-tools case study.
+Commercial angle: turns a chat-heavy coordination process into a tracked operational workflow with self-service commands, state, scheduler logic, and an operator dashboard. It was live and actively used for a period, and is now archived because the original game/community use case ended.
 
 Highlights:
 
@@ -41,6 +41,8 @@ Highlights:
 ### Otago Deerstalkers Website
 
 Static website and publishing automation for the NZDA Otago Branch.
+
+Live: https://otagodeerstalkers.co.nz
 
 Commercial angle: demonstrates small-business automation: Vercel hosting, GitHub Actions, Google Sheets timetable publishing, and newsletter generation.
 
