@@ -14,6 +14,8 @@ I build practical AI tools for professional services businesses: document intell
 
 Early proof-of-ability RAG prototype over NZ tax legislation, IRD guidance, and case law.
 
+Case study: https://portfolio-five-dun-6xcwxkysve.vercel.app/case-studies/meridian-nz-tax-rag
+
 Commercial angle: demonstrates practical RAG pipeline skill: source collection, section-aware chunking, hybrid retrieval, citation display, and evaluation. It is not presented as a production tax-advice product.
 
 Highlights:
@@ -27,6 +29,8 @@ Highlights:
 ### NOCSCOUT Discord Bot and Dashboard
 
 Discord automation and desktop dashboard for coordinating world-boss scouting.
+
+Case study: https://portfolio-five-dun-6xcwxkysve.vercel.app/case-studies/nocscout
 
 Commercial angle: turns a chat-heavy coordination process into a tracked operational workflow with self-service commands, state, scheduler logic, and an operator dashboard. It was live and actively used for a period, and is now archived because the original game/community use case ended.
 
@@ -43,6 +47,8 @@ Highlights:
 Static website and publishing automation for the NZDA Otago Branch.
 
 Live: https://otagodeerstalkers.co.nz
+
+Case study: https://portfolio-five-dun-6xcwxkysve.vercel.app/case-studies/otago-deerstalkers
 
 Commercial angle: demonstrates small-business automation: Vercel hosting, GitHub Actions, Google Sheets timetable publishing, and newsletter generation.
 
