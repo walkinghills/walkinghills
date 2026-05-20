@@ -1,11 +1,13 @@
 # Hi, I'm Sal Martin
 
-I build practical AI tools for professional services businesses: document intelligence, workflow automation, and operational systems backed by specialist knowledge in NZ accounting, tax, and compliance.
+I am a process-focused AI prompt engineer building practical AI workflows for professional-services and mission-led organisations.
+
+My background combines four years in tax advisory with governance and treasurer experience across New Zealand not-for-profits supporting young people, recreational hunting, and digital sustainability through e-waste refurbishment.
 
 ## What I Build
 
 - Domain-specific RAG and document search systems with citations, retrieval evaluation, and grounding checks.
-- Workflow automation for messy business processes, internal tools, dashboards, and scheduled operations.
+- Process-led prompt workflows for document-heavy and compliance-sensitive operations.
 - AI-assisted development systems using Codex, Claude Code, MCP tools, regression tests, and multi-model review loops.
 
 ## Featured Projects
