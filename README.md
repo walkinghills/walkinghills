@@ -1,4 +1,4 @@
-# Hi, I'm Sam
+# Hi, I'm Sal Martin
 
 I build practical AI tools for professional services businesses: document intelligence, workflow automation, and operational systems backed by specialist knowledge in NZ accounting, tax, and compliance.
 
